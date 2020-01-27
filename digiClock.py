@@ -16,7 +16,7 @@ def time():
 	lbl.after(1000, time) 
 # Styling the label widget so that clock 
 # will look more attractive 
-lbl = Label(root, font = ('times new roman', 50, 'bold'), 
+lbl = Label(root, font = ('Verdana', 50, 'bold'), 
 			background = 'purple', 
 			foreground = 'white') 
 
